@@ -187,14 +187,14 @@ const experiences = [
 const testimonials = [
 	{
 		testimonial:
-			"As a passionate developer, Steven has always worked diligently to help improve our internal processes. Ever since he joined our team in, Steven has made a material contribution to the success of our web development department. Steven is a diligent and hard worker. His work ethic, moral compass and attitude is exemplary. In his work, he always displays exceptional organizational skills, neat and thoughtful code construction and is proactive in communication.",
+			"As a passionate developer, Steve has always worked diligently to help improve our internal processes. Ever since he joined our team in, Steve has made a material contribution to the success of our web development department. Steve is a diligent and hard worker. His work ethic, moral compass and attitude is exemplary. In his work, he always displays exceptional organizational skills, neat and thoughtful code construction and is proactive in communication.",
 		name: "Stephen Hanna",
 		designation: "Managing Partner",
 		company: "Corporate Advantage",
 		image: stephen,
 	},
 	{
-		testimonial: "Steve was found consistent, honest, and diligent in his assigned duties and responsibilities. He demonstrated good design skills with self-motivated attitude to learn new things.",
+		testimonial: "Steve is an exceptional front-end software developer with the technical skills, attention to detail, and collaborative mindset necessary to deliver outstanding results. I wholeheartedly recommend him for any front-end development role.",
 		name: "Rohan Jetha",
 		designation: "Head of Operations",
 		company: "Maqro",
