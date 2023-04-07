@@ -32,6 +32,7 @@ import {
 	webrank,
 	rohan,
 	stephen,
+	oldPortfolio,
 } from "../assets";
 
 export const navLinks = [
@@ -286,6 +287,34 @@ const projects = [
 		],
 		image: webrank,
 		source_code_link: "https://webrank.vn/rank/lazada.vn?&lang=us",
+	},
+	{
+		name: "Old Portfolio",
+		description: "Old portfolio that uses GSAP animation library to create cool looking effects",
+		tags: [
+			{
+				name: "JavaScript",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "Webflow",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "GSAP",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "Jquery",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "css",
+				color: "pink-text-gradient",
+			},
+		],
+		image: oldPortfolio,
+		source_code_link: "https://steve-hqn-portfolio-v2.webflow.io/",
 	},
 ];
 

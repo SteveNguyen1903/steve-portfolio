@@ -36,6 +36,7 @@ import tripguide from "./tripguide.png";
 import maqroWeb from "./maqro-web.png";
 import maqroPortal from "./maqro-portal.png";
 import webrank from "./webrank.png";
+import oldPortfolio from "./steve-old.png";
 
 import rohan from "./people/rohan.jpg";
 import stephen from "./people/stephen.png";
@@ -76,6 +77,7 @@ export {
 	maqroWeb,
 	maqroPortal,
 	webrank,
+	oldPortfolio,
 	rohan,
 	stephen,
 };
