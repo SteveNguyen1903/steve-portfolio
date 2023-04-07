@@ -206,7 +206,7 @@ const testimonials = [
 const projects = [
 	{
 		name: "Maqro Website",
-		description: "Web-based platform that allows users to search for various investment topics and to showcase the best of Maqro investment firm. The project utilized nextjs framework to bring out best user experience and improving SEO thanks to SSR (server side render)",
+		description: `Web-based platform that allows users to search for various investment topics and to showcase the best of Maqro investment firm. The project utilized nextjs framework to bring out best user experience and improving SEO thanks to SSR (server side render)`,
 		tags: [
 			{
 				name: "react",
@@ -234,8 +234,7 @@ const projects = [
 	},
 	{
 		name: "Maqro portal",
-		description:
-			"The project involves the development of a web application that empowers users to track the stock market in real time through various paid tiers. This application leverages the capabilities of Redux, Redux Toolkit, and RTK Query to efficiently manage and cache data on the client side, thereby ensuring a seamless user experience.",
+		description: `The project involves the development of a web application that empowers users to track the stock market in real time through various paid tiers. This application leverages the capabilities of Redux, Redux Toolkit, and RTK Query to efficiently manage and cache data on the client side, thereby ensuring a seamless user experience.`,
 		tags: [
 			{
 				name: "react",
@@ -267,7 +266,7 @@ const projects = [
 	},
 	{
 		name: "Webrank Vietnam",
-		description: "Web application that allows users to compare and contrast between different websites based on certain metrics such as values, traffics and so on",
+		description: `Web application that allows users to compare and contrast between different websites based on certain metrics such as values, traffics and so on`,
 		tags: [
 			{
 				name: "JavaScript",
@@ -295,7 +294,7 @@ const projects = [
 	},
 	{
 		name: "Old Portfolio",
-		description: "Old portfolio that uses GSAP animation library to create cool looking effects",
+		description: `Old portfolio that uses GSAP animation library to create cool looking effects`,
 		tags: [
 			{
 				name: "JavaScript",
