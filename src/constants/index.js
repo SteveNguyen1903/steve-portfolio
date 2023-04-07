@@ -234,10 +234,15 @@ const projects = [
 	},
 	{
 		name: "Maqro portal",
-		description: "Web application that enables users to follow the stock market in real time with different paid tier",
+		description:
+			"The project involves the development of a web application that empowers users to track the stock market in real time through various paid tiers. This application leverages the capabilities of Redux, Redux Toolkit, and RTK Query to efficiently manage and cache data on the client side, thereby ensuring a seamless user experience.",
 		tags: [
 			{
 				name: "react",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "nextjs",
 				color: "blue-text-gradient",
 			},
 			{
