@@ -33,6 +33,8 @@ import {
 	rohan,
 	stephen,
 	oldPortfolio,
+	cine,
+	adv,
 } from "../assets";
 
 export const navLinks = [
@@ -217,6 +219,10 @@ const projects = [
 				color: "blue-text-gradient",
 			},
 			{
+				name: "redux/RTK Query",
+				color: "blue-text-gradient",
+			},
+			{
 				name: "mongodb",
 				color: "green-text-gradient",
 			},
@@ -319,6 +325,42 @@ const projects = [
 		],
 		image: oldPortfolio,
 		source_code_link: "https://steve-hqn-portfolio-v2.webflow.io/",
+	},
+	{
+		name: "Landing Page for Cinevision",
+		description: `Landing Page for a photography studio in Sydney`,
+		tags: [
+			{
+				name: "JavaScript",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "Webflow",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "Jquery",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "css/scss",
+				color: "pink-text-gradient",
+			},
+		],
+		image: cine,
+		source_code_link: "https://steves-fabulous-site-781fed.webflow.io/",
+	},
+	{
+		name: "Landing Page concept for ADV Group",
+		description: `Landing Page for a corporation in Paramatta`,
+		tags: [
+			{
+				name: "Figma",
+				color: "blue-text-gradient",
+			},
+		],
+		image: adv,
+		source_code_link: "https://imgur.com/6neuVEw",
 	},
 ];
 

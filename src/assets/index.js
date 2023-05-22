@@ -37,6 +37,8 @@ import maqroWeb from "./maqro-web.png";
 import maqroPortal from "./maqro-portal.png";
 import webrank from "./webrank.png";
 import oldPortfolio from "./steve-old.png";
+import cine from "./cine.jpg";
+import adv from "./adv.jpg";
 
 import rohan from "./people/rohan.jpg";
 import stephen from "./people/stephen.png";
@@ -80,4 +82,6 @@ export {
 	oldPortfolio,
 	rohan,
 	stephen,
+	cine,
+	adv,
 };
