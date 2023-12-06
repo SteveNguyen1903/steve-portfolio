@@ -35,6 +35,9 @@ import {
 	oldPortfolio,
 	cine,
 	adv,
+	abby,
+	app,
+	dg,
 } from "../assets";
 
 export const navLinks = [
@@ -185,6 +188,20 @@ const experiences = [
 			"Propose and Performing upgrades from legacy to new code structure, including data caching on client side using Redux/Redux toolkit/RTK Query",
 		],
 	},
+	{
+		title: "Frontend Developer",
+		company_name: "Digital Garden, Sydney",
+		icon: dg,
+		iconBg: "#1957c1",
+		date: "Jun 2023 - Nov 2023",
+		description: "A digital agency, with offices in both Sydney and Melbourne, specialising in UX design, web design and Drupal development projects.",
+		points: [
+			"Integrating novel functionalities into pre-existing website projects, encompassing animations, modals, forms, and other components.",
+			"Engaging in collaborative efforts to construct responsive website projects within a team setting, aligning with Figma design specifications.",
+			"Upholding, troubleshooting, and enhancing existing website projects in accordance with client specifications and requirements.",
+			"Conducting peer code reviews to ensure code quality and adherence to established standards.",
+		],
+	},
 ];
 
 const testimonials = [
@@ -202,6 +219,14 @@ const testimonials = [
 		designation: "Head of Operations",
 		company: "Maqro",
 		image: rohan,
+	},
+	{
+		testimonial:
+			"Steve has been employed by Digital Garden on a 6 month contract for overflow work during a busy period. He is a good frontend developer, with both Drupal and WordPress experience, he is also proficient with React and creating frontend animations to bring UI's to life. He is a friendly guy, who I highly recommend.",
+		name: "Abby Breakwell",
+		designation: "Founder / Managing Director at Digital Garden",
+		company: "Digital Garden",
+		image: abby,
 	},
 ];
 
@@ -361,6 +386,42 @@ const projects = [
 		],
 		image: adv,
 		source_code_link: "https://imgur.com/6neuVEw",
+	},
+	{
+		name: "APP website",
+		description: `A big scope website project for APP Group, a collaboration of works in a team environment`,
+		tags: [
+			{
+				name: "JavaScript",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "Jquery",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "GSAP",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "Jquery",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "Twig",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "Figma",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "css/scss",
+				color: "pink-text-gradient",
+			},
+		],
+		image: app,
+		source_code_link: "https://www.app.com.au/",
 	},
 ];
 

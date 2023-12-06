@@ -29,6 +29,7 @@ import thuythu from "./company/thuythu.png";
 import fffsolution from "./company/3fsolutions.jpg";
 import nms from "./company/nms.png";
 import maqro from "./company/maqro.jpg";
+import dg from "./company/dg.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -39,9 +40,11 @@ import webrank from "./webrank.png";
 import oldPortfolio from "./steve-old.png";
 import cine from "./cine.jpg";
 import adv from "./adv.jpg";
+import app from "./app.png";
 
 import rohan from "./people/rohan.jpg";
 import stephen from "./people/stephen.png";
+import abby from "./people/abby.jpg";
 
 export {
 	logo,
@@ -82,6 +85,9 @@ export {
 	oldPortfolio,
 	rohan,
 	stephen,
+	abby,
 	cine,
 	adv,
+	dg,
+	app,
 };
