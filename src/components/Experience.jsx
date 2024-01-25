@@ -8,6 +8,8 @@ import { experiences } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { textVariant } from "../utils/motion";
 
+const descExp = experiences.reverse();
+
 const ExperienceCard = ({ experience }) => {
 	return (
 		<VerticalTimelineElement
@@ -40,6 +42,8 @@ const ExperienceCard = ({ experience }) => {
 	);
 };
 
+// console.log("exp ", experiences.reverse());
+
 const Experience = () => {
 	return (
 		<>
@@ -50,7 +54,7 @@ const Experience = () => {
 
 			<div className="mt-20 flex flex-col">
 				<VerticalTimeline>
-					{experiences.map((experience, index) => (
+					{descExp.map((experience, index) => (
 						<ExperienceCard key={index} experience={experience} />
 					))}
 				</VerticalTimeline>
